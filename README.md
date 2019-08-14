@@ -1,2 +1,0 @@
-# Git-Demo
-Learning Demo
